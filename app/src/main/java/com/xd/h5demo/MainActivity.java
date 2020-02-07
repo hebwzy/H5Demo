@@ -55,6 +55,9 @@ public class MainActivity extends AppCompatActivity {
 
 //        web.loadUrl("file:///android_asset/code.html");
         web.loadUrl("https://yuedu.163.com/");
+
+        //RoundedCornersTransformation
+
     }
 
     @Override
